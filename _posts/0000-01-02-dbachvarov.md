@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Slides for daniel bachvarov's file.
 Use the left arrow to go back!
